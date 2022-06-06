@@ -1,7 +1,6 @@
-package uk.tw.energy.service;
+package uk.tw.energy.reading;
 
 import org.springframework.stereotype.Service;
-import uk.tw.energy.domain.ElectricityReading;
 
 import java.util.ArrayList;
 import java.util.List;
